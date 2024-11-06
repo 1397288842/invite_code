@@ -1,5 +1,5 @@
 //
-// 
+// 参考来源 https://gist.github.com/zjnxyz/6ef6007f493a0edea6837cc06e934abc
 //
 
 #ifndef SCENESERVER_CODEGENHELPER_H
